@@ -1,0 +1,174 @@
+body {
+    
+    font-family: 'Roboto', sans-serif;
+}
+.topnav {
+    overflow: hidden;
+    
+  }
+  
+  .topnav a {
+    float: right;
+    text-align: center;
+    padding: 5px 16px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #3C3C3C;
+
+  }
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    color: #363958;
+}
+h1:hover{
+    font-size: 70px;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    color: #363958;
+    ;
+}
+h2:hover{
+    font-size: 50px;
+    color: crimson;
+}
+p{
+    padding-bottom: 7%;
+}
+.name-highlight{
+    color: #ff0080;
+}
+section{
+    height: 500px;
+
+}
+.half-width{
+    width: 40%;
+   
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+#a{
+    
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 80px;
+    
+}
+.link-button{
+    text-decoration: none ;
+    background-image: linear-gradient(45deg, crimson , #ff0080) ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+   
+}
+
+.work{
+    background: #E5E5E5;
+    height: 700px;
+}
+
+.box{
+    height: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+.space{
+    width: 30%;
+    border-radius: 20px;
+    background-color: white;
+   
+    float: left;
+    margin-left: 2% ;
+
+}
+.space img{
+    width: 90%;
+    padding: 3%;
+}
+.space p{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 3%;
+}
+.space h3{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 3%;
+}
+
+#b{
+    text-align: center;
+   
+}
+
+.blog{
+   
+    overflow: hidden;
+    text-align: center;
+    height: 100%;
+    padding-bottom: 10%;
+}
+#i{
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    padding-bottom: 2%;
+
+ }
+
+ .wi{
+    background-image: url("images/image-3.png") ;
+    background-size: 20% 20%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: 200px;
+    margin-right: 200px ;
+    margin-bottom: 50px;
+    padding-left: 10px;
+}
+#chat{
+    float: right;
+    margin: 80px;
+    padding: 20px;
+}
+.wi h2{
+    padding: 40px;
+    font-size: 50px;
+    color: white;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.con{
+    text-align: center;
+    display: block;
+}
+
+.icon{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.icon img{
+    width: 3%;
+    padding-right: 2%;
+}
+footer p{
+    text-align: center;
+    font-size: 15px;
+}
